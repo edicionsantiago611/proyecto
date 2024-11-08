@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../proyecto-diseño-web"
+		},
+		{
+			"path": "../javascript"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tarea php"
+	}
+}
